@@ -44,6 +44,10 @@ All these can be found in the intermediate_data folder in this repository. These
   - 'AQI': The estimated Air Quality Index value for the corresponding year and month.   
 
 ### `pred_df.csv`  
-- **Description**: This is basically `monthly_aqi.csv` but after imputing values in the missing AQI rows.
+- **Description**: This is basically `monthly_aqi.csv` merged with `smoke_est.csv` but after imputing values in the missing AQI rows into the AQI dataset and grouping them by year.  
 - **Columns**:  
-  - Same columns as `monthly_aqi.csv`.
+  - 'Year': The year of the monthly AQI estimate.    
+  - 'AQI': The mean estimated Air Quality Index value for the corresponding year.  
+  - 'GISAcres': The number of acres burned by the wildfire.    
+  - 'shortest_dist': The distance between the wildfire and the city.  
+  - 'Smoke_Estimate': The estimated impact of smoke.  
