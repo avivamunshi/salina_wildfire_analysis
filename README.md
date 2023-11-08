@@ -39,9 +39,9 @@ All these can be found in the intermediate_data folder in this repository. These
 
 - **Description**: Contains monthly estimates of the AQI for Salina.  
 - **Columns**:  
-'Year': The year of the monthly AQI estimate.  
-'Month': The month of the AQI estimate.   
-'AQI': The estimated Air Quality Index value for the corresponding year and month.   
+  - 'Year': The year of the monthly AQI estimate.  
+  - 'Month': The month of the AQI estimate.   
+  - 'AQI': The estimated Air Quality Index value for the corresponding year and month.   
 
 ### `pred_df.csv`  
 - **Description**: This is basically `monthly_aqi.csv` but after imputing values in the missing AQI rows.
