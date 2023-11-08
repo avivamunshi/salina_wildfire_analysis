@@ -30,8 +30,8 @@ All these can be found in the intermediate_data folder in this repository. These
 
 - **Description**: Provides estimates of the impact of smoke from wildfires on Salina, grouped by year.   
 - **Columns**:  
-  - **FireYear**: The year of the wildfire.  
-  - **GISAcres**: The number of acres burned by the wildfire.  
-  - **shortest_dist**: The distance between the wildfire and the city.  
-  - **Smoke_Estimate**: The estimated impact of smoke.  
+  - **'FireYear'**: The year of the wildfire.  
+  - **'GISAcres'**: The number of acres burned by the wildfire.  
+  - **'shortest_dist'**: The distance between the wildfire and the city.  
+  - **'Smoke_Estimate'**: The estimated impact of smoke.  
 
