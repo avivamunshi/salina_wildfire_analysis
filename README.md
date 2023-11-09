@@ -69,4 +69,8 @@ Please be aware of the following known issues and considerations when using this
 ## Reproduction Steps
 
 To reproduce the analysis and generate predictions, follow these steps:
+1. Execute `src/HCDS Project Part 1 DAQ.ipynb`. This contains  
+2. Execute `src/HCDS Project Part 1 Cleaning.ipynb`. This contains   
+3. Execute `src/HCDS Project Part 1 AQI Pull.ipynb`. This contains  
+4. Execute `src/HCDS Project Part 1 Modelling.ipynb`. This contains  
 
