@@ -1,10 +1,10 @@
 # DATA512 Project Part 1
 
-This repository contains data and code for a human-centered data science project focused on understanding the impact of wildfires on the air quality of the city of Salina. The project's goal is to analyze historical data and make predictions for future years.
+This repository contains data, code, and visualizations for a human-centered data science project focused on understanding the impact of wildfires on the air quality of the city of Salina. The project's goal is to analyze historical data and build a predictive model that should predict smoke estimates for every year for the next 25 years.  
 
 ## Goal
 
-The goal of this project is to predict the impact of smoke from wildfires on the air quality in Salina for 25 years based on existing data about AQI and Wildfire data in the USA. It involves analyzing historical data, including smoke estimates, air quality index (AQI), and fire-related information, to make these predictions.
+The goal of this project is to predict the impact of smoke from wildfires on the air quality in Salina for 25 years based on existing data about AQI and Wildfire data in the USA. 
 
 ## Licenses and API Information
 
@@ -66,9 +66,9 @@ To reproduce the analysis and generate predictions, follow these steps. All thes
    
 2. Execute `src/HCDS Project Part 1 Cleaning.ipynb`. This notebook estimates the impact of wildfire smoke on Salina. It involves loading and filtering data, calculating factors like Smoke Factor and Overlap Factor, and applying a formula to compute the final **Smoke Estimate**. The results are grouped by year and exported to a CSV file named `intermediate_data/smoke_est.csv`.
    
-3. Execute `src/HCDS Project Part 1 AQI Pull.ipynb`. This contains various data analysis and data retrieval tasks related to air quality and smoke estimates for Salina. It begins by loading and visualizing smoke estimate data. It then accesses the US EPA Air Quality System API to retrieve air quality monitoring information. You need to sign up to access this data, and this code block has been commented and has a descriptor that will enable you to do the same. It is labeled "Uncomment this to sign up and get your username and APIKEY". The code computes monthly AQI estimates for the years 1963 to 2022, imputes missing AQI values, and calculates yearly averages. The final dataset combines smoke estimates and imputed AQI data, which is saved as `intermediate_data/pred_df.csv`.  
+3. Execute `src/HCDS Project Part 1 AQI Pull.ipynb`. This contains various data analysis and data retrieval tasks related to air quality and smoke estimates for Salina. It begins by loading and visualizing smoke estimate data. It then accesses the US EPA Air Quality System API to retrieve air quality monitoring information. You need to sign up to access this data, and this code block has been commented on and has a descriptor that will enable you to do the same. It is labeled "Uncomment this to sign up and get your username and APIKEY". The code computes monthly AQI estimates for the years 1963 to 2022, imputes missing AQI values, and calculates yearly averages. The final dataset combines smoke estimates and imputed AQI data, which is saved as `intermediate_data/pred_df.csv`.  
    
-4. Execute `src/HCDS Project Part 1 Modelling.ipynb`. This contains the predictive modeling, time series analysis, and data visualization tasks for smoke and fire-related data. The results of the visualizations have been saved to the directory `../results/`. These have been further discussed in the HCDS Project Part 1 Writeup.pdf.  
+4. Execute `src/HCDS Project Part 1 Modelling.ipynb`. This contains the predictive modeling, time series analysis, and data visualization tasks for smoke and fire-related data. The predicted values for the next 25 years have been stored and printed from the list 'forecasted_values'. The results of the visualizations have been saved to the directory `../results/`. These have been further discussed in the HCDS Project Part 1 Writeup.pdf.  
 
 ## Known Issues and Considerations
 
