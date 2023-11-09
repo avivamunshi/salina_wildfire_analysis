@@ -56,7 +56,19 @@ The intermediate_data folder in this repository contains the following dataframe
     - 'AQI': The mean estimated Air Quality Index value for the corresponding year.
     - 'GISAcres': The number of acres burned by the wildfire.
     - 'shortest_dist': The distance between the wildfire and the city.
-    - 'Smoke_Estimate': The estimated impact of smoke.
+    - 'Smoke_Estimate': The estimated impact of smoke. 
+
+## Reproduction Steps
+
+To reproduce the analysis and generate predictions, follow these steps. All these notebooks can be found in the `src` directory of the repository.  
+
+1. Download “Wildland Fire Polygons Fire Feature Data Open Source GeoJSON Files” from the [Combined wildland fire datasets for the United States and certain territories, 1800s-Present (combined wildland fire polygons)](https://www.sciencebase.gov/catalog/item/61aa537dd34eb622f699df81). From this, import the file "USGS_Wildland_Fire_Combined_Dataset.json" using the code in `src/HCDS Project Part 1 DAQ.ipynb`. This code contains the data analysis process to estimate the impact of wildfire smoke on Salina, Kansas. It involves reading the "USGS_Wildland_Fire_Combined_Dataset.json" GeoJSON dataset of wildfire occurrences, converting coordinates, calculating distances between Salina and wildfires, filtering relevant data, and performing checks. The output includes data frames with information on wildfire distances `intermediate_data/miles.csv`, fire attributes `intermediate_data/features.csv`, and an estimate of smoke impact `intermediate_data/filter.csv`.  
+   
+2. Execute `src/HCDS Project Part 1 Cleaning.ipynb`. This notebook estimates the impact of wildfire smoke on Salina. It involves loading and filtering data, calculating factors like Smoke Factor and Overlap Factor, and applying a formula to compute the final **Smoke Estimate**. The results are grouped by year and exported to a CSV file named `intermediate_data/smoke_est.csv`.
+   
+3. Execute `src/HCDS Project Part 1 AQI Pull.ipynb`. This contains various data analysis and data retrieval tasks related to air quality and smoke estimates for Salina. It begins by loading and visualizing smoke estimate data. It then accesses the US EPA Air Quality System API to retrieve air quality monitoring information. The code computes monthly AQI estimates for the years 1963 to 2022, imputes missing AQI values, and calculates yearly averages. The final dataset combines smoke estimates and imputed AQI data, which is saved as `intermediate_data/pred_df.csv`.  
+   
+4. Execute `src/HCDS Project Part 1 Modelling.ipynb`. This contains the predictive modeling, time series analysis, and data visualization tasks for smoke and fire-related data. The results of the visualizations have been saved to the directory `../results/`. These have been further discussed in the HCDS Project Part 1 Writeup.pdf.  
 
 ## Known Issues and Considerations
 
@@ -64,13 +76,4 @@ Please be aware of the following known issues and considerations when using this
 
 - Data quality and completeness vary tremendously here. The accuracy of wildfire data is unknown due to there being absence of sophisticated technologies in certain eras.
 - Model predictions may be subject to uncertainty and error.  
-- Some blocks of code take between 20 mins - 1 hour to run. These are especially evident when loading features in wildfire data and pulling monthly AQI levels for Salina. Please make sure to have sufficient computational resources to carry out such an analysis.  
-
-## Reproduction Steps
-
-To reproduce the analysis and generate predictions, follow these steps:
-1. Execute `src/HCDS Project Part 1 DAQ.ipynb`. This contains  
-2. Execute `src/HCDS Project Part 1 Cleaning.ipynb`. This contains   
-3. Execute `src/HCDS Project Part 1 AQI Pull.ipynb`. This contains  
-4. Execute `src/HCDS Project Part 1 Modelling.ipynb`. This contains  
-
+- Some blocks of code take between 20 mins - 1 hour to run. These are especially evident when loading features in wildfire data and pulling monthly AQI levels for Salina. Please make sure to have sufficient computational resources to carry out such an analysis. 
