@@ -1,4 +1,4 @@
-# DATA512 Project Part 1
+# Wildfire Analysis in Salina, KS
 
 This repository contains data, code, and visualizations for a human-centered data science project focused on understanding the impact of wildfires on the air quality of the city of Salina. The project's goal is to analyze historical data and build a predictive model that should predict smoke estimates for every year for the next 25 years.  
 
