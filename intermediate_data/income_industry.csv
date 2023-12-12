@@ -1,0 +1,549 @@
+,Salina_Count,Metrics,Sub Metric,Year
+0,24508,INDUSTRY,Civilian employed population 16 years and over,2011
+1,185,INDUSTRY,"Agriculture, forestry, fishing and hunting, and mining",2011
+2,1199,INDUSTRY,Construction,2011
+3,4507,INDUSTRY,Manufacturing,2011
+4,722,INDUSTRY,Wholesale trade,2011
+5,3054,INDUSTRY,Retail trade,2011
+6,891,INDUSTRY,"Transportation and warehousing, and utilities",2011
+7,507,INDUSTRY,Information,2011
+8,1262,INDUSTRY,"Finance and insurance, and real estate and rental and leasing",2011
+9,1979,INDUSTRY,"Professional, scientific, and management, and administrative and waste management services",2011
+10,5303,INDUSTRY,"Educational services, and health care and social assistance",2011
+11,2452,INDUSTRY,"Arts, entertainment, and recreation, and accommodation and food services",2011
+12,1357,INDUSTRY,"Other services, except public administration",2011
+13,1090,INDUSTRY,Public administration,2011
+14,19279,INCOME,Total households,2011
+15,1101,INCOME,"Less than $10,000",2011
+16,1254,INCOME,"$10,000 to $14,999",2011
+17,2712,INCOME,"$15,000 to $24,999",2011
+18,2593,INCOME,"$25,000 to $34,999",2011
+19,3441,INCOME,"$35,000 to $49,999",2011
+20,3645,INCOME,"$50,000 to $74,999",2011
+21,2370,INCOME,"$75,000 to $99,999",2011
+22,1430,INCOME,"$100,000 to $149,999",2011
+23,371,INCOME,"$150,000 to $199,999",2011
+24,362,INCOME,"$200,000 or more",2011
+25,42410,INCOME,Median household income (dollars),2011
+26,56898,INCOME,Mean household income (dollars),2011
+27,15645,INCOME,With earnings,2011
+28,54886,INCOME,Mean earnings (dollars),2011
+29,5747,INCOME,With Social Security,2011
+30,16131,INCOME,Mean Social Security income (dollars),2011
+31,2899,INCOME,With retirement income,2011
+32,17059,INCOME,Mean retirement income (dollars),2011
+33,612,INCOME,With Supplemental Security Income,2011
+34,7983,INCOME,Mean Supplemental Security Income (dollars),2011
+35,626,INCOME,With cash public assistance income,2011
+36,2586,INCOME,Mean cash public assistance income (dollars),2011
+37,1841,INCOME,With Food Stamp/SNAP benefits in the past 12 months,2011
+38,11773,INCOME,Families,2011
+39,561,INCOME,"Less than $10,000.1",2011
+40,278,INCOME,"$10,000 to $14,999.1",2011
+41,1137,INCOME,"$15,000 to $24,999.1",2011
+42,1320,INCOME,"$25,000 to $34,999.1",2011
+43,2072,INCOME,"$35,000 to $49,999.1",2011
+44,2526,INCOME,"$50,000 to $74,999.1",2011
+45,1996,INCOME,"$75,000 to $99,999.1",2011
+46,1267,INCOME,"$100,000 to $149,999.1",2011
+47,313,INCOME,"$150,000 to $199,999.1",2011
+48,303,INCOME,"$200,000 or more.1",2011
+49,54541,INCOME,Median family income (dollars),2011
+50,68016,INCOME,Mean family income (dollars),2011
+51,23825,INCOME,Per capita income (dollars),2011
+52,7506,INCOME,Nonfamily households,2011
+53,28700,INCOME,Median nonfamily income (dollars),2011
+54,37500,INCOME,Mean nonfamily income (dollars),2011
+55,25492,INCOME,Median earnings for workers (dollars),2011
+56,38806,INCOME,"Median earnings for male full-time, year-round workers (dollars)",2011
+57,28534,INCOME,"Median earnings for female full-time, year-round workers (dollars)",2011
+58,24401,INDUSTRY,Civilian employed population 16 years and over,2012
+59,258,INDUSTRY,"Agriculture, forestry, fishing and hunting, and mining",2012
+60,1114,INDUSTRY,Construction,2012
+61,4610,INDUSTRY,Manufacturing,2012
+62,654,INDUSTRY,Wholesale trade,2012
+63,3339,INDUSTRY,Retail trade,2012
+64,991,INDUSTRY,"Transportation and warehousing, and utilities",2012
+65,443,INDUSTRY,Information,2012
+66,1110,INDUSTRY,"Finance and insurance, and real estate and rental and leasing",2012
+67,1790,INDUSTRY,"Professional, scientific, and management, and administrative and waste management services",2012
+68,5372,INDUSTRY,"Educational services, and health care and social assistance",2012
+69,2350,INDUSTRY,"Arts, entertainment, and recreation, and accommodation and food services",2012
+70,1467,INDUSTRY,"Other services, except public administration",2012
+71,903,INDUSTRY,Public administration,2012
+72,19050,INCOME,Total households,2012
+73,844,INCOME,"Less than $10,000",2012
+74,1353,INCOME,"$10,000 to $14,999",2012
+75,2622,INCOME,"$15,000 to $24,999",2012
+76,2438,INCOME,"$25,000 to $34,999",2012
+77,3278,INCOME,"$35,000 to $49,999",2012
+78,4208,INCOME,"$50,000 to $74,999",2012
+79,2042,INCOME,"$75,000 to $99,999",2012
+80,1515,INCOME,"$100,000 to $149,999",2012
+81,425,INCOME,"$150,000 to $199,999",2012
+82,325,INCOME,"$200,000 or more",2012
+83,44556,INCOME,Median household income (dollars),2012
+84,57959,INCOME,Mean household income (dollars),2012
+85,15477,INCOME,With earnings,2012
+86,54996,INCOME,Mean earnings (dollars),2012
+87,5770,INCOME,With Social Security,2012
+88,16936,INCOME,Mean Social Security income (dollars),2012
+89,2830,INCOME,With retirement income,2012
+90,18662,INCOME,Mean retirement income (dollars),2012
+91,607,INCOME,With Supplemental Security Income,2012
+92,7991,INCOME,Mean Supplemental Security Income (dollars),2012
+93,643,INCOME,With cash public assistance income,2012
+94,2495,INCOME,Mean cash public assistance income (dollars),2012
+95,1890,INCOME,With Food Stamp/SNAP benefits in the past 12 months,2012
+96,11869,INCOME,Families,2012
+97,382,INCOME,"Less than $10,000.1",2012
+98,410,INCOME,"$10,000 to $14,999.1",2012
+99,1198,INCOME,"$15,000 to $24,999.1",2012
+100,1325,INCOME,"$25,000 to $34,999.1",2012
+101,2038,INCOME,"$35,000 to $49,999.1",2012
+102,2846,INCOME,"$50,000 to $74,999.1",2012
+103,1800,INCOME,"$75,000 to $99,999.1",2012
+104,1258,INCOME,"$100,000 to $149,999.1",2012
+105,367,INCOME,"$150,000 to $199,999.1",2012
+106,245,INCOME,"$200,000 or more.1",2012
+107,54464,INCOME,Median family income (dollars),2012
+108,67339,INCOME,Mean family income (dollars),2012
+109,23829,INCOME,Per capita income (dollars),2012
+110,7181,INCOME,Nonfamily households,2012
+111,29829,INCOME,Median nonfamily income (dollars),2012
+112,39841,INCOME,Mean nonfamily income (dollars),2012
+113,25866,INCOME,Median earnings for workers (dollars),2012
+114,38064,INCOME,"Median earnings for male full-time, year-round workers (dollars)",2012
+115,29859,INCOME,"Median earnings for female full-time, year-round workers (dollars)",2012
+116,23940,INDUSTRY,Civilian employed population 16 years and over,2013
+117,311,INDUSTRY,"Agriculture, forestry, fishing and hunting, and mining",2013
+118,1175,INDUSTRY,Construction,2013
+119,4969,INDUSTRY,Manufacturing,2013
+120,580,INDUSTRY,Wholesale trade,2013
+121,3107,INDUSTRY,Retail trade,2013
+122,1105,INDUSTRY,"Transportation and warehousing, and utilities",2013
+123,287,INDUSTRY,Information,2013
+124,1072,INDUSTRY,"Finance and insurance, and real estate and rental and leasing",2013
+125,1617,INDUSTRY,"Professional, scientific, and management, and administrative and waste management services",2013
+126,5080,INDUSTRY,"Educational services, and health care and social assistance",2013
+127,2483,INDUSTRY,"Arts, entertainment, and recreation, and accommodation and food services",2013
+128,1265,INDUSTRY,"Other services, except public administration",2013
+129,889,INDUSTRY,Public administration,2013
+130,19119,INCOME,Total households,2013
+131,1057,INCOME,"Less than $10,000",2013
+132,1331,INCOME,"$10,000 to $14,999",2013
+133,2798,INCOME,"$15,000 to $24,999",2013
+134,2344,INCOME,"$25,000 to $34,999",2013
+135,3030,INCOME,"$35,000 to $49,999",2013
+136,3979,INCOME,"$50,000 to $74,999",2013
+137,2269,INCOME,"$75,000 to $99,999",2013
+138,1569,INCOME,"$100,000 to $149,999",2013
+139,387,INCOME,"$150,000 to $199,999",2013
+140,355,INCOME,"$200,000 or more",2013
+141,43874,INCOME,Median household income (dollars),2013
+142,58702,INCOME,Mean household income (dollars),2013
+143,15620,INCOME,With earnings,2013
+144,56282,INCOME,Mean earnings (dollars),2013
+145,5727,INCOME,With Social Security,2013
+146,17009,INCOME,Mean Social Security income (dollars),2013
+147,2713,INCOME,With retirement income,2013
+148,18184,INCOME,Mean retirement income (dollars),2013
+149,817,INCOME,With Supplemental Security Income,2013
+150,7744,INCOME,Mean Supplemental Security Income (dollars),2013
+151,612,INCOME,With cash public assistance income,2013
+152,3496,INCOME,Mean cash public assistance income (dollars),2013
+153,2092,INCOME,With Food Stamp/SNAP benefits in the past 12 months,2013
+154,12186,INCOME,Families,2013
+155,53390,INCOME,Median family income (dollars),2013
+156,68023,INCOME,Mean family income (dollars),2013
+157,23981,INCOME,Per capita income (dollars),2013
+158,6933,INCOME,Nonfamily households,2013
+159,27834,INCOME,Median nonfamily income (dollars),2013
+160,39434,INCOME,Mean nonfamily income (dollars),2013
+161,26016,INCOME,Median earnings for workers (dollars),2013
+162,38251,INCOME,"Median earnings for male full-time, year-round workers (dollars)",2013
+163,30706,INCOME,"Median earnings for female full-time, year-round workers (dollars)",2013
+164,23776,INDUSTRY,Civilian employed population 16 years and over,2014
+165,267,INDUSTRY,"Agriculture, forestry, fishing and hunting, and mining",2014
+166,1342,INDUSTRY,Construction,2014
+167,4925,INDUSTRY,Manufacturing,2014
+168,556,INDUSTRY,Wholesale trade,2014
+169,3010,INDUSTRY,Retail trade,2014
+170,985,INDUSTRY,"Transportation and warehousing, and utilities",2014
+171,295,INDUSTRY,Information,2014
+172,1232,INDUSTRY,"Finance and insurance, and real estate and rental and leasing",2014
+173,1552,INDUSTRY,"Professional, scientific, and management, and administrative and waste management services",2014
+174,5448,INDUSTRY,"Educational services, and health care and social assistance",2014
+175,2073,INDUSTRY,"Arts, entertainment, and recreation, and accommodation and food services",2014
+176,1229,INDUSTRY,"Other services, except public administration",2014
+177,862,INDUSTRY,Public administration,2014
+178,19393,INCOME,Total households,2014
+179,977,INCOME,"Less than $10,000",2014
+180,1611,INCOME,"$10,000 to $14,999",2014
+181,2796,INCOME,"$15,000 to $24,999",2014
+182,2354,INCOME,"$25,000 to $34,999",2014
+183,3087,INCOME,"$35,000 to $49,999",2014
+184,3653,INCOME,"$50,000 to $74,999",2014
+185,2444,INCOME,"$75,000 to $99,999",2014
+186,1668,INCOME,"$100,000 to $149,999",2014
+187,373,INCOME,"$150,000 to $199,999",2014
+188,430,INCOME,"$200,000 or more",2014
+189,44398,INCOME,Median household income (dollars),2014
+190,59090,INCOME,Mean household income (dollars),2014
+191,15716,INCOME,With earnings,2014
+192,57229,INCOME,Mean earnings (dollars),2014
+193,5712,INCOME,With Social Security,2014
+194,17891,INCOME,Mean Social Security income (dollars),2014
+195,2730,INCOME,With retirement income,2014
+196,17905,INCOME,Mean retirement income (dollars),2014
+197,883,INCOME,With Supplemental Security Income,2014
+198,8705,INCOME,Mean Supplemental Security Income (dollars),2014
+199,392,INCOME,With cash public assistance income,2014
+200,3869,INCOME,Mean cash public assistance income (dollars),2014
+201,2145,INCOME,With Food Stamp/SNAP benefits in the past 12 months,2014
+202,12047,INCOME,Families,2014
+203,55357,INCOME,Median family income (dollars),2014
+204,69852,INCOME,Mean family income (dollars),2014
+205,24435,INCOME,Per capita income (dollars),2014
+206,7346,INCOME,Nonfamily households,2014
+207,27900,INCOME,Median nonfamily income (dollars),2014
+208,38682,INCOME,Mean nonfamily income (dollars),2014
+209,26971,INCOME,Median earnings for workers (dollars),2014
+210,39369,INCOME,"Median earnings for male full-time, year-round workers (dollars)",2014
+211,31390,INCOME,"Median earnings for female full-time, year-round workers (dollars)",2014
+212,24056,INDUSTRY,Civilian employed population 16 years and over,2015
+213,331,INDUSTRY,"Agriculture, forestry, fishing and hunting, and mining",2015
+214,1559,INDUSTRY,Construction,2015
+215,4957,INDUSTRY,Manufacturing,2015
+216,486,INDUSTRY,Wholesale trade,2015
+217,2948,INDUSTRY,Retail trade,2015
+218,934,INDUSTRY,"Transportation and warehousing, and utilities",2015
+219,212,INDUSTRY,Information,2015
+220,1235,INDUSTRY,"Finance and insurance, and real estate and rental and leasing",2015
+221,1509,INDUSTRY,"Professional, scientific, and management, and administrative and waste management services",2015
+222,5396,INDUSTRY,"Educational services, and health care and social assistance",2015
+223,2342,INDUSTRY,"Arts, entertainment, and recreation, and accommodation and food services",2015
+224,1441,INDUSTRY,"Other services, except public administration",2015
+225,706,INDUSTRY,Public administration,2015
+226,19351,INCOME,Total households,2015
+227,1014,INCOME,"Less than $10,000",2015
+228,1470,INCOME,"$10,000 to $14,999",2015
+229,2807,INCOME,"$15,000 to $24,999",2015
+230,2494,INCOME,"$25,000 to $34,999",2015
+231,2927,INCOME,"$35,000 to $49,999",2015
+232,3783,INCOME,"$50,000 to $74,999",2015
+233,2463,INCOME,"$75,000 to $99,999",2015
+234,1524,INCOME,"$100,000 to $149,999",2015
+235,414,INCOME,"$150,000 to $199,999",2015
+236,455,INCOME,"$200,000 or more",2015
+237,44710,INCOME,Median household income (dollars),2015
+238,58751,INCOME,Mean household income (dollars),2015
+239,15373,INCOME,With earnings,2015
+240,57172,INCOME,Mean earnings (dollars),2015
+241,5783,INCOME,With Social Security,2015
+242,18095,INCOME,Mean Social Security income (dollars),2015
+243,2727,INCOME,With retirement income,2015
+244,19048,INCOME,Mean retirement income (dollars),2015
+245,1008,INCOME,With Supplemental Security Income,2015
+246,8916,INCOME,Mean Supplemental Security Income (dollars),2015
+247,340,INCOME,With cash public assistance income,2015
+248,3870,INCOME,Mean cash public assistance income (dollars),2015
+249,2202,INCOME,With Food Stamp/SNAP benefits in the past 12 months,2015
+250,11852,INCOME,Families,2015
+251,56916,INCOME,Median family income (dollars),2015
+252,70415,INCOME,Mean family income (dollars),2015
+253,24540,INCOME,Per capita income (dollars),2015
+254,7499,INCOME,Nonfamily households,2015
+255,27322,INCOME,Median nonfamily income (dollars),2015
+256,37617,INCOME,Mean nonfamily income (dollars),2015
+257,26921,INCOME,Median earnings for workers (dollars),2015
+258,37728,INCOME,"Median earnings for male full-time, year-round workers (dollars)",2015
+259,31213,INCOME,"Median earnings for female full-time, year-round workers (dollars)",2015
+260,23981,INDUSTRY,Civilian employed population 16 years and over,2016
+261,304,INDUSTRY,"Agriculture, forestry, fishing and hunting, and mining",2016
+262,1488,INDUSTRY,Construction,2016
+263,4745,INDUSTRY,Manufacturing,2016
+264,509,INDUSTRY,Wholesale trade,2016
+265,2848,INDUSTRY,Retail trade,2016
+266,941,INDUSTRY,"Transportation and warehousing, and utilities",2016
+267,166,INDUSTRY,Information,2016
+268,1151,INDUSTRY,"Finance and insurance, and real estate and rental and leasing",2016
+269,1373,INDUSTRY,"Professional, scientific, and management, and administrative and waste management services",2016
+270,5462,INDUSTRY,"Educational services, and health care and social assistance",2016
+271,2639,INDUSTRY,"Arts, entertainment, and recreation, and accommodation and food services",2016
+272,1556,INDUSTRY,"Other services, except public administration",2016
+273,799,INDUSTRY,Public administration,2016
+274,19419,INCOME,Total households,2016
+275,1133,INCOME,"Less than $10,000",2016
+276,1296,INCOME,"$10,000 to $14,999",2016
+277,2694,INCOME,"$15,000 to $24,999",2016
+278,2286,INCOME,"$25,000 to $34,999",2016
+279,3190,INCOME,"$35,000 to $49,999",2016
+280,3840,INCOME,"$50,000 to $74,999",2016
+281,2567,INCOME,"$75,000 to $99,999",2016
+282,1496,INCOME,"$100,000 to $149,999",2016
+283,386,INCOME,"$150,000 to $199,999",2016
+284,531,INCOME,"$200,000 or more",2016
+285,45896,INCOME,Median household income (dollars),2016
+286,60427,INCOME,Mean household income (dollars),2016
+287,15257,INCOME,With earnings,2016
+288,59912,INCOME,Mean earnings (dollars),2016
+289,5973,INCOME,With Social Security,2016
+290,18130,INCOME,Mean Social Security income (dollars),2016
+291,2724,INCOME,With retirement income,2016
+292,19450,INCOME,Mean retirement income (dollars),2016
+293,945,INCOME,With Supplemental Security Income,2016
+294,9453,INCOME,Mean Supplemental Security Income (dollars),2016
+295,347,INCOME,With cash public assistance income,2016
+296,4287,INCOME,Mean cash public assistance income (dollars),2016
+297,2371,INCOME,With Food Stamp/SNAP benefits in the past 12 months,2016
+298,12092,INCOME,Families,2016
+299,58930,INCOME,Median family income (dollars),2016
+300,74447,INCOME,Mean family income (dollars),2016
+301,25315,INCOME,Per capita income (dollars),2016
+302,7327,INCOME,Nonfamily households,2016
+303,26983,INCOME,Median nonfamily income (dollars),2016
+304,34508,INCOME,Mean nonfamily income (dollars),2016
+305,27353,INCOME,Median earnings for workers (dollars),2016
+306,40054,INCOME,"Median earnings for male full-time, year-round workers (dollars)",2016
+307,32162,INCOME,"Median earnings for female full-time, year-round workers (dollars)",2016
+308,23769,INDUSTRY,Civilian employed population 16 years and over,2017
+309,231,INDUSTRY,"Agriculture, forestry, fishing and hunting, and mining",2017
+310,1512,INDUSTRY,Construction,2017
+311,4709,INDUSTRY,Manufacturing,2017
+312,568,INDUSTRY,Wholesale trade,2017
+313,2590,INDUSTRY,Retail trade,2017
+314,789,INDUSTRY,"Transportation and warehousing, and utilities",2017
+315,152,INDUSTRY,Information,2017
+316,1092,INDUSTRY,"Finance and insurance, and real estate and rental and leasing",2017
+317,1551,INDUSTRY,"Professional, scientific, and management, and administrative and waste management services",2017
+318,5678,INDUSTRY,"Educational services, and health care and social assistance",2017
+319,2691,INDUSTRY,"Arts, entertainment, and recreation, and accommodation and food services",2017
+320,1285,INDUSTRY,"Other services, except public administration",2017
+321,921,INDUSTRY,Public administration,2017
+322,19453,INCOME,Total households,2017
+323,1086,INCOME,"Less than $10,000",2017
+324,992,INCOME,"$10,000 to $14,999",2017
+325,2698,INCOME,"$15,000 to $24,999",2017
+326,2550,INCOME,"$25,000 to $34,999",2017
+327,2961,INCOME,"$35,000 to $49,999",2017
+328,3673,INCOME,"$50,000 to $74,999",2017
+329,2602,INCOME,"$75,000 to $99,999",2017
+330,1921,INCOME,"$100,000 to $149,999",2017
+331,478,INCOME,"$150,000 to $199,999",2017
+332,492,INCOME,"$200,000 or more",2017
+333,47103,INCOME,Median household income (dollars),2017
+334,62946,INCOME,Mean household income (dollars),2017
+335,14926,INCOME,With earnings,2017
+336,64509,INCOME,Mean earnings (dollars),2017
+337,6144,INCOME,With Social Security,2017
+338,18499,INCOME,Mean Social Security income (dollars),2017
+339,2775,INCOME,With retirement income,2017
+340,16834,INCOME,Mean retirement income (dollars),2017
+341,986,INCOME,With Supplemental Security Income,2017
+342,9265,INCOME,Mean Supplemental Security Income (dollars),2017
+343,417,INCOME,With cash public assistance income,2017
+344,4377,INCOME,Mean cash public assistance income (dollars),2017
+345,2207,INCOME,With Food Stamp/SNAP benefits in the past 12 months,2017
+346,11713,INCOME,Families,2017
+347,62562,INCOME,Median family income (dollars),2017
+348,79644,INCOME,Mean family income (dollars),2017
+349,26837,INCOME,Per capita income (dollars),2017
+350,7740,INCOME,Nonfamily households,2017
+351,29306,INCOME,Median nonfamily income (dollars),2017
+352,35620,INCOME,Mean nonfamily income (dollars),2017
+353,29581,INCOME,Median earnings for workers (dollars),2017
+354,41413,INCOME,"Median earnings for male full-time, year-round workers (dollars)",2017
+355,33912,INCOME,"Median earnings for female full-time, year-round workers (dollars)",2017
+356,23379,INDUSTRY,Civilian employed population 16 years and over,2018
+357,201,INDUSTRY,"Agriculture, forestry, fishing and hunting, and mining",2018
+358,1502,INDUSTRY,Construction,2018
+359,4125,INDUSTRY,Manufacturing,2018
+360,567,INDUSTRY,Wholesale trade,2018
+361,2745,INDUSTRY,Retail trade,2018
+362,878,INDUSTRY,"Transportation and warehousing, and utilities",2018
+363,187,INDUSTRY,Information,2018
+364,1212,INDUSTRY,"Finance and insurance, and real estate and rental and leasing",2018
+365,1586,INDUSTRY,"Professional, scientific, and management, and administrative and waste management services",2018
+366,5577,INDUSTRY,"Educational services, and health care and social assistance",2018
+367,2391,INDUSTRY,"Arts, entertainment, and recreation, and accommodation and food services",2018
+368,1458,INDUSTRY,"Other services, except public administration",2018
+369,950,INDUSTRY,Public administration,2018
+370,19359,INCOME,Total households,2018
+371,890,INCOME,"Less than $10,000",2018
+372,1011,INCOME,"$10,000 to $14,999",2018
+373,2817,INCOME,"$15,000 to $24,999",2018
+374,2584,INCOME,"$25,000 to $34,999",2018
+375,2751,INCOME,"$35,000 to $49,999",2018
+376,3882,INCOME,"$50,000 to $74,999",2018
+377,2460,INCOME,"$75,000 to $99,999",2018
+378,1936,INCOME,"$100,000 to $149,999",2018
+379,553,INCOME,"$150,000 to $199,999",2018
+380,475,INCOME,"$200,000 or more",2018
+381,48079,INCOME,Median household income (dollars),2018
+382,62555,INCOME,Mean household income (dollars),2018
+383,14551,INCOME,With earnings,2018
+384,65028,INCOME,Mean earnings (dollars),2018
+385,6251,INCOME,With Social Security,2018
+386,18965,INCOME,Mean Social Security income (dollars),2018
+387,2939,INCOME,With retirement income,2018
+388,18161,INCOME,Mean retirement income (dollars),2018
+389,884,INCOME,With Supplemental Security Income,2018
+390,10060,INCOME,Mean Supplemental Security Income (dollars),2018
+391,349,INCOME,With cash public assistance income,2018
+392,2655,INCOME,Mean cash public assistance income (dollars),2018
+393,1968,INCOME,With Food Stamp/SNAP benefits in the past 12 months,2018
+394,11439,INCOME,Families,2018
+395,64151,INCOME,Median family income (dollars),2018
+396,79653,INCOME,Mean family income (dollars),2018
+397,26598,INCOME,Per capita income (dollars),2018
+398,7920,INCOME,Nonfamily households,2018
+399,28837,INCOME,Median nonfamily income (dollars),2018
+400,35867,INCOME,Mean nonfamily income (dollars),2018
+401,29334,INCOME,Median earnings for workers (dollars),2018
+402,43057,INCOME,"Median earnings for male full-time, year-round workers (dollars)",2018
+403,33098,INCOME,"Median earnings for female full-time, year-round workers (dollars)",2018
+404,23585,INDUSTRY,Civilian employed population 16 years and over,2019
+405,298,INDUSTRY,"Agriculture, forestry, fishing and hunting, and mining",2019
+406,1203,INDUSTRY,Construction,2019
+407,4138,INDUSTRY,Manufacturing,2019
+408,609,INDUSTRY,Wholesale trade,2019
+409,2482,INDUSTRY,Retail trade,2019
+410,976,INDUSTRY,"Transportation and warehousing, and utilities",2019
+411,228,INDUSTRY,Information,2019
+412,1145,INDUSTRY,"Finance and insurance, and real estate and rental and leasing",2019
+413,1637,INDUSTRY,"Professional, scientific, and management, and administrative and waste management services",2019
+414,5787,INDUSTRY,"Educational services, and health care and social assistance",2019
+415,2706,INDUSTRY,"Arts, entertainment, and recreation, and accommodation and food services",2019
+416,1431,INDUSTRY,"Other services, except public administration",2019
+417,945,INDUSTRY,Public administration,2019
+418,19120,INCOME,Total households,2019
+419,1041,INCOME,"Less than $10,000",2019
+420,1001,INCOME,"$10,000 to $14,999",2019
+421,2221,INCOME,"$15,000 to $24,999",2019
+422,2396,INCOME,"$25,000 to $34,999",2019
+423,2764,INCOME,"$35,000 to $49,999",2019
+424,3833,INCOME,"$50,000 to $74,999",2019
+425,2415,INCOME,"$75,000 to $99,999",2019
+426,2388,INCOME,"$100,000 to $149,999",2019
+427,563,INCOME,"$150,000 to $199,999",2019
+428,498,INCOME,"$200,000 or more",2019
+429,50490,INCOME,Median household income (dollars),2019
+430,65603,INCOME,Mean household income (dollars),2019
+431,14249,INCOME,With earnings,2019
+432,69228,INCOME,Mean earnings (dollars),2019
+433,6322,INCOME,With Social Security,2019
+434,19020,INCOME,Mean Social Security income (dollars),2019
+435,3368,INCOME,With retirement income,2019
+436,18056,INCOME,Mean retirement income (dollars),2019
+437,829,INCOME,With Supplemental Security Income,2019
+438,10147,INCOME,Mean Supplemental Security Income (dollars),2019
+439,299,INCOME,With cash public assistance income,2019
+440,2910,INCOME,Mean cash public assistance income (dollars),2019
+441,1866,INCOME,With Food Stamp/SNAP benefits in the past 12 months,2019
+442,11162,INCOME,Families,2019
+443,70544,INCOME,Median family income (dollars),2019
+444,84417,INCOME,Mean family income (dollars),2019
+445,27745,INCOME,Per capita income (dollars),2019
+446,7958,INCOME,Nonfamily households,2019
+447,30075,INCOME,Median nonfamily income (dollars),2019
+448,37318,INCOME,Mean nonfamily income (dollars),2019
+449,30405,INCOME,Median earnings for workers (dollars),2019
+450,46226,INCOME,"Median earnings for male full-time, year-round workers (dollars)",2019
+451,34020,INCOME,"Median earnings for female full-time, year-round workers (dollars)",2019
+452,23561,INDUSTRY,Civilian employed population 16 years and over,2020
+453,345,INDUSTRY,"Agriculture, forestry, fishing and hunting, and mining",2020
+454,1042,INDUSTRY,Construction,2020
+455,3604,INDUSTRY,Manufacturing,2020
+456,574,INDUSTRY,Wholesale trade,2020
+457,2749,INDUSTRY,Retail trade,2020
+458,959,INDUSTRY,"Transportation and warehousing, and utilities",2020
+459,216,INDUSTRY,Information,2020
+460,977,INDUSTRY,"Finance and insurance, and real estate and rental and leasing",2020
+461,1699,INDUSTRY,"Professional, scientific, and management, and administrative and waste management services",2020
+462,6403,INDUSTRY,"Educational services, and health care and social assistance",2020
+463,2706,INDUSTRY,"Arts, entertainment, and recreation, and accommodation and food services",2020
+464,1406,INDUSTRY,"Other services, except public administration",2020
+465,881,INDUSTRY,Public administration,2020
+466,19245,INCOME,Total households,2020
+467,1201,INCOME,"Less than $10,000",2020
+468,1088,INCOME,"$10,000 to $14,999",2020
+469,2079,INCOME,"$15,000 to $24,999",2020
+470,2652,INCOME,"$25,000 to $34,999",2020
+471,2626,INCOME,"$35,000 to $49,999",2020
+472,3891,INCOME,"$50,000 to $74,999",2020
+473,2128,INCOME,"$75,000 to $99,999",2020
+474,2450,INCOME,"$100,000 to $149,999",2020
+475,595,INCOME,"$150,000 to $199,999",2020
+476,535,INCOME,"$200,000 or more",2020
+477,49870,INCOME,Median household income (dollars),2020
+478,66592,INCOME,Mean household income (dollars),2020
+479,14606,INCOME,With earnings,2020
+480,70696,INCOME,Mean earnings (dollars),2020
+481,6124,INCOME,With Social Security,2020
+482,19527,INCOME,Mean Social Security income (dollars),2020
+483,3567,INCOME,With retirement income,2020
+484,17013,INCOME,Mean retirement income (dollars),2020
+485,1060,INCOME,With Supplemental Security Income,2020
+486,8885,INCOME,Mean Supplemental Security Income (dollars),2020
+487,573,INCOME,With cash public assistance income,2020
+488,3127,INCOME,Mean cash public assistance income (dollars),2020
+489,2151,INCOME,With Food Stamp/SNAP benefits in the past 12 months,2020
+490,11159,INCOME,Families,2020
+491,68074,INCOME,Median family income (dollars),2020
+492,87331,INCOME,Mean family income (dollars),2020
+493,28427,INCOME,Per capita income (dollars),2020
+494,8086,INCOME,Nonfamily households,2020
+495,29154,INCOME,Median nonfamily income (dollars),2020
+496,35393,INCOME,Mean nonfamily income (dollars),2020
+497,30335,INCOME,Median earnings for workers (dollars),2020
+498,45192,INCOME,"Median earnings for male full-time, year-round workers (dollars)",2020
+499,33799,INCOME,"Median earnings for female full-time, year-round workers (dollars)",2020
+500,23917,INDUSTRY,Civilian employed population 16 years and over,2021
+501,316,INDUSTRY,"Agriculture, forestry, fishing and hunting, and mining",2021
+502,947,INDUSTRY,Construction,2021
+503,3652,INDUSTRY,Manufacturing,2021
+504,563,INDUSTRY,Wholesale trade,2021
+505,2765,INDUSTRY,Retail trade,2021
+506,870,INDUSTRY,"Transportation and warehousing, and utilities",2021
+507,217,INDUSTRY,Information,2021
+508,936,INDUSTRY,"Finance and insurance, and real estate and rental and leasing",2021
+509,1729,INDUSTRY,"Professional, scientific, and management, and administrative and waste management services",2021
+510,6960,INDUSTRY,"Educational services, and health care and social assistance",2021
+511,2529,INDUSTRY,"Arts, entertainment, and recreation, and accommodation and food services",2021
+512,1465,INDUSTRY,"Other services, except public administration",2021
+513,968,INDUSTRY,Public administration,2021
+514,19174,INCOME,Total households,2021
+515,1179,INCOME,"Less than $10,000",2021
+516,1162,INCOME,"$10,000 to $14,999",2021
+517,1893,INCOME,"$15,000 to $24,999",2021
+518,2144,INCOME,"$25,000 to $34,999",2021
+519,2604,INCOME,"$35,000 to $49,999",2021
+520,3966,INCOME,"$50,000 to $74,999",2021
+521,2370,INCOME,"$75,000 to $99,999",2021
+522,2615,INCOME,"$100,000 to $149,999",2021
+523,701,INCOME,"$150,000 to $199,999",2021
+524,540,INCOME,"$200,000 or more",2021
+525,52702,INCOME,Median household income (dollars),2021
+526,68478,INCOME,Mean household income (dollars),2021
+527,14721,INCOME,With earnings,2021
+528,71538,INCOME,Mean earnings (dollars),2021
+529,5880,INCOME,With Social Security,2021
+530,20263,INCOME,Mean Social Security income (dollars),2021
+531,3931,INCOME,With retirement income,2021
+532,18844,INCOME,Mean retirement income (dollars),2021
+533,993,INCOME,With Supplemental Security Income,2021
+534,9779,INCOME,Mean Supplemental Security Income (dollars),2021
+535,621,INCOME,With cash public assistance income,2021
+536,3824,INCOME,Mean cash public assistance income (dollars),2021
+537,1888,INCOME,With Food Stamp/SNAP benefits in the past 12 months,2021
+538,10926,INCOME,Families,2021
+539,71467,INCOME,Median family income (dollars),2021
+540,88746,INCOME,Mean family income (dollars),2021
+541,29206,INCOME,Per capita income (dollars),2021
+542,8248,INCOME,Nonfamily households,2021
+543,30282,INCOME,Median nonfamily income (dollars),2021
+544,38675,INCOME,Mean nonfamily income (dollars),2021
+545,31355,INCOME,Median earnings for workers (dollars),2021
+546,46033,INCOME,"Median earnings for male full-time, year-round workers (dollars)",2021
+547,35762,INCOME,"Median earnings for female full-time, year-round workers (dollars)",2021
